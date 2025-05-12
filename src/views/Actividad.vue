@@ -17,10 +17,11 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema:
+        'Elaboración y comprobación de moldes para calzado tipo <em>Derby</em>',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> Identificar los conceptos, procesos y técnicas clave en la elaboración y verificación de moldes para calzado tipo <em>Derby</em>, según las especificaciones del diseño y los procedimientos técnicos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -28,29 +29,28 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            '¿Qué elemento se utiliza como base para trazar las líneas guía sobre la horma?',
+          imagen: require('@/assets/actividad/imagen1.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
+              texto: 'Hormiguilla.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Seleccionar y editar capas que identifican márgenes, pistas y componentes.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Ajustar automáticamente las pistas de cada componente.',
+              texto: 'Cambrado.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Enmascarado.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Modificar el tamaño de los componentes.',
+              texto: 'Lengüeta.',
               esCorrecta: false,
             },
           ],
@@ -60,28 +60,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            '¿Cuál es la principal característica estructural del calzado tipo <em>Derby</em>?',
+          imagen: require('@/assets/actividad/imagen1.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
+              texto: 'Lengüeta unida.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Auto</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: '<em>Text</em>',
+              texto: 'Sistema de cordones abiertos.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'Capellada alta.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto: 'Suela doble.',
               esCorrecta: false,
             },
           ],
@@ -90,30 +90,30 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            '¿Qué indica el punto metatarsiano en el desarrollo del patrón?',
+          imagen: require('@/assets/actividad/imagen1.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Para borrar conexiones.',
-              esCorrecta: false,
+              texto: 'Ubicación de la articulación del pie.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto:
-                'Para cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+              texto: 'Altura del talón.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Para agregar nuevas capas.',
+              texto: 'Inicio de la lengüeta.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Para resaltar conexiones de pines.',
-              esCorrecta: true,
+              texto: 'Final del talón.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -122,28 +122,28 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            '¿Qué medida se suma al número de la horma para obtener la altura del talón en calzado masculino?',
+          imagen: require('@/assets/actividad/imagen1.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Text</em>',
+              texto: '15 mm.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Layer</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: '<em>Board</em>',
+              texto: '20 mm.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: '25 mm.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto: '30 mm.',
               esCorrecta: false,
             },
           ],
@@ -152,30 +152,28 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Cuál es el propósito del proceso de calado en el patrón?',
+          imagen: require('@/assets/actividad/imagen2.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Enrutar manualmente las pistas que no se ajustaron automáticamente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Resaltar las conexiones de los pines.',
+              texto: 'Aumentar el volumen del molde.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Facilitar el trazado y despiece.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Crear una nueva capa en el diseño.',
+              texto: 'Medir la suela del zapato.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+              texto: 'Reforzar las costuras.',
               esCorrecta: false,
             },
           ],
@@ -185,28 +183,28 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            '¿Qué tipo de <em>Derby</em> presenta una puntera en forma de “W”?',
+          imagen: require('@/assets/actividad/imagen2.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Borrar componentes.',
+              texto: '<em>Derby</em> con chapeta.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Ajustar automáticamente las pistas en cada componente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Crear nuevas conexiones de pines.',
+              texto: '<em>Derby</em> con puntera.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: '<em>Derby</em> con bigotera.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Seleccionar y editar capas.',
+              texto: '<em>Derby</em> con correa.',
               esCorrecta: false,
             },
           ],
@@ -215,29 +213,28 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Qué tipo de molde representa las piezas planas del calzado?',
+          imagen: require('@/assets/actividad/imagen2.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Colocar los componentes en un solo bloque.',
+              texto: 'Molde de forro.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Agrupar los componentes en bloques funcionales.',
+              texto: 'Molde patrón.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Alinear todos los terminales a la derecha.',
+              texto: 'Molde de ajuste.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Colocar los terminales lo más alejados posible.',
+              texto: 'Molde tridimensional.',
               esCorrecta: false,
             },
           ],
@@ -246,30 +243,29 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Qué material se recomienda para maquetas más avanzadas?',
+          imagen: require('@/assets/actividad/imagen2.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Cartulina.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Papel <em>kraft</em>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: '<em>Telford</em>.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Cuero.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -278,19 +274,29 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            '¿Qué elemento se incorpora en el diseño del <em>Derby</em> con chapeta?',
+          imagen: require('@/assets/actividad/imagen3.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Una bigotera.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Una pieza adicional sobre la capellada.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Correas con hebilla.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Perforaciones en la suela.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -298,19 +304,28 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Cuál es la función de la máscara compensada?',
+          imagen: require('@/assets/actividad/imagen3.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Obtener una base simétrica del molde patrón.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Marcar el tamaño final del zapato.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Reducir el tiempo de montaje.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Crear la lengüeta.',
               esCorrecta: false,
             },
           ],
@@ -320,19 +335,19 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            'El punto de atraque se encuentra entre el punto de calzada y la línea de plantilla.',
+          imagen: require('@/assets/actividad/imagen3.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -341,19 +356,19 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            'El <em>Derby</em> con puntera y talón no requiere molde cambrado.',
+          imagen: require('@/assets/actividad/imagen3.svg'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -361,9 +376,8 @@ export default {
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto: 'La bigotera no debe cruzarse con otras piezas del molde.',
+          imagen: require('@/assets/actividad/imagen4.svg'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -382,9 +396,8 @@ export default {
         },
         {
           id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto: 'Los moldes de forro deben incluir puntos y líneas guía.',
+          imagen: require('@/assets/actividad/imagen4.svg'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -404,8 +417,8 @@ export default {
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            'La maqueta permite detectar errores antes de la producción final.',
+          imagen: require('@/assets/actividad/imagen4.svg'),
           barajarRespuestas: true,
           opciones: [
             {
