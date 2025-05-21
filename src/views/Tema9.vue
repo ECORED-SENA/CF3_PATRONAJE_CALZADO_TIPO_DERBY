@@ -59,7 +59,6 @@
               h4.mb-4 <em>Telford</em>
               p.mb-0 Plástico delgado y flexible que ofrece mayor precisión en el ajuste y permite una revisión detallada del diseño.
             .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-2
               figure
                 img(src='@/assets/curso/temas/img140.svg', alt='' style="max-width: 400px").m-auto
 
@@ -76,7 +75,6 @@
               h4.mb-4 Cuero (retales)
               p.mb-0 Utilizado en maquetas más avanzadas cuando se requiere una verificación más cercana al calce y acabado reales.
             .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-2
               figure
                 img(src='@/assets/curso/temas/img142.svg', alt='' style="max-width: 400px").m-auto 
 

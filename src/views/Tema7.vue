@@ -123,7 +123,7 @@
               img(src="@/assets/curso/temas/img58.svg" style="max-width: 72px").m-auto
           .col-xl
             h5.estilo___h5 Moldes de forro para el modelo tipo <em>Derby</em> con Bigotera
-            p.mb-0 ELos moldes de forro se construyen de la misma manera que en el modelo <em>Derby</em> con puntera.
+            p.mb-0 Los moldes de forro se construyen de la misma manera que en el modelo <em>Derby</em> con puntera.
 
 </template>
 

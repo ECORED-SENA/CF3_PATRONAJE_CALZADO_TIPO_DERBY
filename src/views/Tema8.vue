@@ -231,7 +231,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/img137.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los moldes de forro se construyen de la misma forma que en el modelo <em>Derby</em>  con puntera. Estas son las principales variaciones del modelo <em>Derby</em> , a partir de las cuales se pueden crear múltiples diseños con diferencias en las cordoneras, talones y detalles adicionales, como adornos, costuras o perforaciones, entre otros.
+        p.mb-0 Los moldes de forro se construyen de la misma forma que en el modelo <em>Derby</em> con puntera. Estas son las principales variaciones del modelo <em>Derby</em>, a partir de las cuales se pueden crear múltiples diseños con diferencias en las cordoneras, talones y detalles adicionales, como adornos, costuras o perforaciones, entre otros.
 
 
 </template>

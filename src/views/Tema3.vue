@@ -35,7 +35,7 @@
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img37.svg" style="max-width: 400px").m-auto
           .col-xl(data-aos="fade-left")
-            p.mb-0.estilo___caja_5 Con el tiempo, especialmente durante el siglo XIX y principios del XX, el <em>Derby</em> pasó de ser un calzado funcional para actividades al aire libre y deportes como la caza, a convertirse en una prenda de uso diario para hombres de diferentes clases sociales.
+            p.mb-0.estilo___caja_5 Con el tiempo, especialmente durante el siglo XIX y principios del XX, el <em>Derby</em> pasó de ser un calzado funcional para actividades al aire libre y deportes como la caza a convertirse en una prenda de uso diario para hombres de diferentes clases sociales.
 
         Separador
         <!-- BLOQUE 2 -->
@@ -60,7 +60,6 @@
                   h4 <em>Derby</em> con puntera
                   p.mb-0 La capellada se secciona en la punta. Puede ser liso o incluir perforaciones y costuras en la puntera y/o cordonera, lo que le da un aspecto más casual. 
                 .col-lg-6
-                  .titulo-sexto.color-acento-contenido.mb-2
                   figure
                     img(src='@/assets/curso/temas/img39.svg', alt='' style="max-width: 400px").m-auto
 
@@ -77,7 +76,6 @@
                   h4 <em>Derby</em> con chapeta
                   p.mb-0 Se caracteriza por la división de la capellada desde el filo de la horma, generando una pieza adicional llamada chapeta. Aporta un diseño distintivo y una estructura particular.
                 .col-lg-6
-                  .titulo-sexto.color-acento-contenido.mb-2
                   figure
                     img(src='@/assets/curso/temas/img41.svg', alt='' style="max-width: 400px").m-auto
 
@@ -86,13 +84,10 @@
                   h4 <em>Derby</em> con correa
                   p.mb-0 Sustituye los cordones por una o más correas con hebillas. Combina la estructura clásica del <em>Derby</em> con un toque de sofisticación, adecuado para estilos formales o casuales según el material y acabado.
                 .col-lg-6
-                  .titulo-sexto.color-acento-contenido.mb-2
                   figure
                     img(src='@/assets/curso/temas/img42.svg', alt='' style="max-width: 400px").m-auto
 
         p.mb-0 Hoy en día, el <em>Derby</em> continúa siendo un zapato icónico tanto en la moda masculina como femenina, disponible en materiales como cuero, gamuza y textiles sintéticos. Su versatilidad lo convierte en una prenda clave en cualquier guardarropa, al combinar elegancia y comodidad.
-
-
 
 </template>
 

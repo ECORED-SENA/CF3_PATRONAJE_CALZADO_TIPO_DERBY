@@ -142,7 +142,6 @@
               h4 Línea desde punto de atraque
               p.mb-0 Colocar la escuadra de 30° en el punto de atraque, alineándola perpendicular a la línea de la boca del talón. Dibujar una línea de 15 mm hacia arriba.
             .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-2
               figure
                 img(src='@/assets/curso/temas/img63.svg', alt='Diagrama técnico con línea de 15 mm desde el punto de atraque, escuadra a 30° y medidas auxiliares sobre silueta de calzado. ' style="max-width: 400px").m-auto
 
@@ -159,7 +158,6 @@
               h4 Aumento en la boca del talón
               p.mb-0 Con un compás, trazar un aumento de 10 mm sobre la línea de boca del talón y unirlo con la curva de la lengüeta para permitir el ensamble pieza sobre pieza.
             .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-2
               figure
                 img(src='@/assets/curso/temas/img65.svg', alt='Esquema con aumento de 10 mm en la boca del talón, trazado con compás y conectado a la curva de la lengüeta para facilitar el ensamble.' style="max-width: 400px").m-auto  
 

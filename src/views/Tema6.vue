@@ -58,7 +58,7 @@
       .col
         h3 Construcción de la puntera
 
-    p.mb-4.espacio___movil_1 Recuerde utilizar el patrón cambrado como base para este procedimiento. Para dibujar la puntera, mida la distancia entre la línea de plantilla y el punto de calzada sobre la línea de capellada. Divida esta distancia en tres partes iguales. Luego, tome dos tercios de esa medida, contando desde la línea de plantilla hacia el punto de calzada, y marque un punto sobre la capellada. Este será el punto máximo de puntera. Desde este punto, mida 10 mm en dirección a la punta y marque un nuevo punto sobre la capellada, denominado punto inferior de puntera.
+    p.mb-4.espacio___movil_1 Recuerde utilizar el patrón cambrado como base para este procedimiento. Para dibujar la puntera, mida la distancia entre la línea de plantilla y el punto de calzada sobre la línea de capellada. Divida esta distancia en tres partes iguales. Luego, tome dos tercios de esa medida, contando desde la línea de plantilla hacia el punto de calzada, y marque un punto sobre la capellada. Este será el punto máximo de puntera. Desde este punto, mida 10 mm en dirección a la punta y marque un nuevo punto sobre la capellada, denominado punto inferior de la puntera.
 
     .row.align-items-center.mb-5.justify-content-center
       .col-lg-10
@@ -69,7 +69,7 @@
           .col-xl
             h5.mb-4 A continuación:
             <ul class="fa-ul">
-              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Desde el punto máximo de puntera, trace una línea perpendicular (90°) a la capellada hasta la línea de plantilla.</li>
+              <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Desde el punto máximo de la puntera, trace una línea perpendicular (90°) a la capellada hasta la línea de plantilla.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span>Repita este trazo desde el punto inferior de puntera, generando así el marco de la puntera.</li>
             </ul>
     
@@ -146,7 +146,7 @@
             figure
               img(src="@/assets/curso/temas/img95.svg", alt="Ajuste de intersecciones entre piezas del molde para evitar superposición.").m-auto
         
-        p.mb-4.espacio___movil_1 Realice cortes en forma de canal sobre las líneas internas del modelo, es decir el proceso de calado.
+        p.mb-4.espacio___movil_1 Realice cortes en forma de canal sobre las líneas internas del modelo, es decir, el proceso de calado.
         
         .row.justify-content-center
           .col-lg-8(data-aos="zoom-in")

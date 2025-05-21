@@ -30,7 +30,6 @@
               h4 Superposición de máscaras externa e interna
               p.mb-0 Una vez se han obtenido ambas máscaras, estas se superponen procurando que coincidan la altura del talón y la línea de profundidad, lo que permite asegurar la simetría y precisión del molde.   
             .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-2
               figure
                 img(src='@/assets/curso/temas/img26.svg', alt='Esquema de superposición de máscaras externa e interna para molde de calzado, donde se alinean la altura del talón y la línea de profundidad.' style="max-width: 400px").m-auto
 
@@ -47,7 +46,6 @@
               h4 Esquema de máscara compensada para diseño de molde patrón de calzado
               p.mb-0 De esta manera se obtiene la máscara compensada, producto del ajuste y promediado de ambas curvas, la cual proporciona una base simétrica y precisa para el trazado del molde patrón. Para este procedimiento, se tomarán como referencia las líneas y puntos guías correspondientes a la cara externa de la horma.
             .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-2
               figure
                 img(src='@/assets/curso/temas/img28.svg', alt='Esquema de la máscara compensada para calzado que representa el contorno lateral de una horma con líneas guía rectas y puntos de referencia.' style="max-width: 400px").m-auto
     
