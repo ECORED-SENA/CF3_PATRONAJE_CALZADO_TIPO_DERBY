@@ -103,7 +103,7 @@
         Separador
         <!-- BLOQUE 2 -->
         #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 7.2 Despidiese de moldes para el modelo tipo <em>Derby</em> con Bigotera
+          h2 7.2 Despiece de moldes para el modelo tipo <em>Derby</em> con Bigotera
         
         p.mb-4.espacio___movil_1 El proceso de despiece de los moldes se realiza de manera similar al del modelo <em>Derby</em> con puntera. La única pieza que varía es la bigotera, cuyo molde se elabora a partir del eje de la capellada. Para su desarrollo, se dobla la cartulina por dicho eje, lo que permite obtener una figura simétrica y equilibrada, asegurando uniformidad en ambos lados del calzado.
 

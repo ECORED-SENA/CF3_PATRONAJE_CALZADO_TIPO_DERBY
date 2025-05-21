@@ -128,7 +128,7 @@
         Separador
         <!-- BLOQUE 2 -->
         #t_8_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 8.2 Despidiese de moldes para el modelo tipo <em>Derby</em> con chapeta
+          h2 8.2 Despiece de moldes para el modelo tipo <em>Derby</em> con chapeta
 
         p.mb-4.espacio___movil_1 El despiece de los moldes en este modelo sigue los principios aplicados en versiones anteriores, pero incorpora adaptaciones puntuales según el diseño.
     

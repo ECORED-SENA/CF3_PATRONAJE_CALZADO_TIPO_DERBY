@@ -181,7 +181,7 @@
     Separador
     <!-- BLOQUE 2 -->
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.2 Despidiese de moldes para el modelo tipo <em>Derby</em> liso
+      h2 5.2 Despiece de moldes para el modelo tipo <em>Derby</em> liso
 
     .fondo_color_10
       .px-5

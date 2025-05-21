@@ -159,7 +159,7 @@
     Separador
     <!-- BLOQUE 2 -->
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 6.2 Despidiese de moldes para el modelo tipo <em>Derby</em> con puntera y talón
+      h2 6.2 Despiece de moldes para el modelo tipo <em>Derby</em> con puntera y talón
 
     .row.align-items-center.mb-5.m-0.espacio___movil_1
       .col-xl.estilo___caja_1.ajuste___6(data-aos="fade-right")
