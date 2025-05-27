@@ -46,13 +46,13 @@
           h5 Figura 1.
           span Punto metatarsiano externo
         figure
-          img(src="@/assets/curso/temas/img6.png", alt="Vista lateral de una horma con indicación del punto metatarsiano externo, marcado en la zona sobresaliente del costado." style="max-width: 600px").m-auto
+          img(src="@/assets/curso/temas/img6.jpg", alt="Vista lateral de una horma con indicación del punto metatarsiano externo, marcado en la zona sobresaliente del costado." style="max-width: 600px").m-auto
       .col-xl-6.espacio___movil_3(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 2.
           span Punto metatarsiano interno
         figure
-          img(src="@/assets/curso/temas/img7.png", alt="Vista opuesta de la horma donde se señala el punto metatarsiano interno." style="max-width: 600px").m-auto
+          img(src="@/assets/curso/temas/img7.jpg", alt="Vista opuesta de la horma donde se señala el punto metatarsiano interno." style="max-width: 600px").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -71,7 +71,7 @@
               h5 Figura 3.
               span Trazado de la línea metatarsiana
             figure
-              img(src="@/assets/curso/temas/img9.png", alt="Imagen del trazado de la línea metatarsiana que conecta los puntos metatarsianos interno y externo. " )
+              img(src="@/assets/curso/temas/img9.jpg", alt="Imagen del trazado de la línea metatarsiana que conecta los puntos metatarsianos interno y externo. " )
         
         p.mb-4.espacio___movil_1 Este punto se obtiene en la intersección entre el eje del empeine y la línea metatarsiana, tal como se presenta en la imagen.
 
@@ -81,7 +81,7 @@
               h5 Figura 4.
               span Identificación del punto de calzada
             figure
-              img(src="@/assets/curso/temas/img10.svg", alt="Diagrama del punto de calzada ubicado en la intersección entre el eje del empeine y la línea metatarsiana ").m-auto
+              img(src="@/assets/curso/temas/img10.jpg", alt="Diagrama del punto de calzada ubicado en la intersección entre el eje del empeine y la línea metatarsiana ").m-auto
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -98,13 +98,13 @@
           h5 Figura 5.
           span Determinación del punto de atraque externo 
         figure
-          img(src="@/assets/curso/temas/img11.svg", alt="Identificación del punto de atraque externo sobre la horma. " style="max-width: 600px").m-auto
+          img(src="@/assets/curso/temas/img11.jpg", alt="Identificación del punto de atraque externo sobre la horma. " style="max-width: 600px").m-auto
       .col-xl-6.espacio___movil_3(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-2
           h5 Figura 6.
           span Determinación del punto de atraque interno
         figure
-          img(src="@/assets/curso/temas/img12.svg", alt="Identificación del punto de atraque interno sobre la horma." style="max-width: 600px").m-auto
+          img(src="@/assets/curso/temas/img12.jpg", alt="Identificación del punto de atraque interno sobre la horma." style="max-width: 600px").m-auto
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -134,7 +134,7 @@
           h5 Figura 7.
           span Cálculo de la altura del talón
         figure(data-aos="zoom-in")
-          img(src="@/assets/curso/temas/img13.png", alt="Representación del cálculo de la altura del talón a partir de la línea de plantilla. " style="max-width: 1030px").m-auto
+          img(src="@/assets/curso/temas/img13.jpg", alt="Representación del cálculo de la altura del talón a partir de la línea de plantilla. " style="max-width: 1030px").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -151,7 +151,7 @@
           h5 Figura 8.
           span Trazado de la línea de profundidad
         figure
-          img(src="@/assets/curso/temas/img14.png", alt="Imagen del trazado de la línea de profundidad que une el punto de altura del talón con el punto de atraque. " ).m-auto
+          img(src="@/assets/curso/temas/img14.jpg", alt="Imagen del trazado de la línea de profundidad que une el punto de altura del talón con el punto de atraque. " ).m-auto
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -185,7 +185,7 @@
           h5 Figura 9.
           span Punto de entrada
         figure
-          img(src="@/assets/curso/temas/img15.svg", alt="Ubicación del punto de entrada determinado a partir del punto de calzada." ).m-auto
+          img(src="@/assets/curso/temas/img15.jpg", alt="Ubicación del punto de entrada determinado a partir del punto de calzada." ).m-auto
 
     .fondo_color_3.mb-5
       .px-5
@@ -204,17 +204,17 @@
               h5 Figura 10.
               span Trazado de la línea de entrada
             figure
-              img(src="@/assets/curso/temas/img17.svg", alt="Proceso para obtener la línea de entrada mediante escuadra desde el punto de entrada hacia la línea de plantilla." ).m-auto
-    
-    .fondo_color_4.mb-5
-      .px-5
-        .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+              img(src="@/assets/curso/temas/img17.jpg", alt="Proceso para obtener la línea de entrada mediante escuadra desde el punto de entrada hacia la línea de plantilla." ).m-auto
+        
+        .caja-titulos-tercer-nivel(data-aos="fade-right")
           .col-lg-auto
             figure
               img(src="@/assets/curso/temas/img4.svg" style="max-width: 60px").m-auto
           .col
             h3 Línea de tobillo
 
+    .fondo_color_4.mb-4
+      .px-5
         p.mb-4.espacio___movil_1 Esta línea se obtiene colocando la cinta métrica desde el punto de entrada hasta la parte inferior de la línea del talón. Luego, se traza el recorrido en ambos lados de la horma, como se indica en la siguiente imagen.
       
         .row.mb-5.justify-content-center
@@ -223,17 +223,17 @@
               h5 Figura 11.
               span Trazado de la línea de tobillo
             figure
-              img(src="@/assets/curso/temas/img19.svg", alt="Trazado de la línea de tobillo desde el punto de entrada hasta la base del talón. " ).m-auto
-    
-    .fondo_color_5.mb-5
-      .px-5
-        .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
+              img(src="@/assets/curso/temas/img19.jpg", alt="Trazado de la línea de tobillo desde el punto de entrada hasta la base del talón. " ).m-auto
+        
+        .caja-titulos-tercer-nivel(data-aos="fade-right")
           .col-lg-auto
             figure
               img(src="@/assets/curso/temas/img4.svg" style="max-width: 60px").m-auto
           .col
             h3 Línea de chapeta o vena
-
+    
+    .fondo_color_5.mb-5
+      .px-5
         p.mb-4.espacio___movil_1 Esta línea se traza siguiendo el quiebre o filo de la parte delantera de la horma (capellada), como se muestra en la imagen.
       
         .row.mb-5.justify-content-center
@@ -242,9 +242,9 @@
               h5 Figura 12.
               span Ubicación de la línea de chapeta o vena
             figure
-              img(src="@/assets/curso/temas/img21.svg", alt="Indicación de la línea de chapeta o vena sobre la parte frontal de la horma.  " ).m-auto
+              img(src="@/assets/curso/temas/img21.jpg", alt="Indicación de la línea de chapeta o vena sobre la parte frontal de la horma.  " ).m-auto
     
-    p.mb-4.espacio___movil_1 Una vez obtenidos los puntos y las líneas guía, se retira la máscara de la horma y se adhiere sobre una cartulina, asegurándola desde la línea de profundidad hacia afuera. Luego, se perfilan y rectifican los puntos y las líneas guía, y se marca la referencia, la talla de la horma y si corresponde a la cara externa o interna, como se presenta en la imagen.
+        p.mb-4.espacio___movil_1 Una vez obtenidos los puntos y las líneas guía, se retira la máscara de la horma y se adhiere sobre una cartulina, asegurándola desde la línea de profundidad hacia afuera. Luego, se perfilan y rectifican los puntos y las líneas guía, y se marca la referencia, la talla de la horma y si corresponde a la cara externa o interna, como se presenta en la imagen.
 
     .row.justify-content-center
       .col-lg-6(data-aos="zoom-in")
@@ -252,7 +252,7 @@
           h5 Figura 13.
           span Retiro de la máscara y marcación de líneas guía
         figure
-          img(src="@/assets/curso/temas/img22.png", alt="Máscara retirada de la horma y adherida a cartulina con líneas guía marcadas." ).m-auto
+          img(src="@/assets/curso/temas/img22.jpg", alt="Máscara retirada de la horma y adherida a cartulina con líneas guía marcadas." ).m-auto
         
 </template>
 

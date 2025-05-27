@@ -64,7 +64,7 @@
           h5 Figura 14.
           span Recorte de las piezas simétricas de la camisa
         figure
-          img(src="@/assets/curso/temas/img29.png", alt="Recorte de dos piezas simétricas de la camisa a partir de la máscara compensada." ).m-auto
+          img(src="@/assets/curso/temas/img29.jpg", alt="Recorte de dos piezas simétricas de la camisa a partir de la máscara compensada." ).m-auto
 
     p.mb-4.espacio___movil_1 Las piezas se unen en las zonas del empeine y del talón utilizando cinta de enmascarar, asegurando un ajuste firme que permita dar forma a la camisa sobre la horma.
 
@@ -74,7 +74,7 @@
           h5 Figura 15.
           span Unión de piezas de la camisa sobre la horma
         figure
-          img(src="@/assets/curso/temas/img30.png", alt="Unión de las piezas recortadas de la camisa sobre la horma con cinta adhesiva.").m-auto
+          img(src="@/assets/curso/temas/img30.jpg", alt="Unión de las piezas recortadas de la camisa sobre la horma con cinta adhesiva.").m-auto
     
     p.mb-4.espacio___movil_1 La camisa se arruga ligeramente para facilitar su colocación sobre la horma, lo que permite que se adapte mejor a su forma durante el proceso de ajuste.
 
@@ -84,7 +84,7 @@
           h5 Figura 16.
           span Adaptación de la camisa a la horma
         figure
-          img(src="@/assets/curso/temas/img31.png", alt="Proceso de adaptación de la camisa arrugada sobre la horma para mayor ajuste. ").m-auto
+          img(src="@/assets/curso/temas/img31.jpg", alt="Proceso de adaptación de la camisa arrugada sobre la horma para mayor ajuste. ").m-auto
     
     p.mb-4.espacio___movil_1 Se verifica que la camisa ajuste correctamente sobre la horma, realizando los ajustes necesarios para asegurar que se adapte con precisión a su forma y contorno.
 
@@ -94,7 +94,7 @@
           h5 Figura 17.
           span Verificación del ajuste de la camisa
         figure
-          img(src="@/assets/curso/temas/img32.png", alt="Verificación del ajuste preciso de la camisa sobre la horma.").m-auto
+          img(src="@/assets/curso/temas/img32.jpg", alt="Verificación del ajuste preciso de la camisa sobre la horma.").m-auto
     
     p.mb-4.espacio___movil_1 Finalmente, se obtiene el perfil de la horma, el cual servirá como base para la elaboración precisa del molde patrón.
 
@@ -104,7 +104,7 @@
           h5 Figura 18.
           span Perfil de la horma como base del molde patrón
         figure
-          img(src="@/assets/curso/temas/img33.png", alt="Perfil final de la horma obtenido a partir de la camisa.").m-auto
+          img(src="@/assets/curso/temas/img33.jpg", alt="Perfil final de la horma obtenido a partir de la camisa.").m-auto
 
     p.mb-4.espacio___movil_1 Una vez compensada la máscara, se dibuja sobre una cartulina incluyendo los puntos y líneas guía, como se presenta en la imagen.
 
