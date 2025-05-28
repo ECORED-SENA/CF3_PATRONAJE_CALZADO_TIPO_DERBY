@@ -5,27 +5,27 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 Elaborar moldes para el modelo tipo <em>Derby</em> liso
+      h1 Elaborar moldes para el modelo tipo Derby liso
 
     .fondo_color_8
       .px-5
         .row.align-items-center.mb-5.m-0
           .col-xl.estilo___caja_1(data-aos="fade-right")
-            p.mb-0 El proceso técnico de creación de moldes para calzado tipo <em>Derby</em> se caracteriza por su diseño clásico y la apertura de cordones sobre el empeine. A partir del perfil de la horma y la máscara compensada, se trazan las piezas que conforman la capellada. Este proceso incluye el diseño, corte y marcación de cada parte, garantizando proporciones adecuadas, líneas de unión definidas y funcionalidad. La correcta elaboración de estos moldes asegura un ensamblaje preciso, una apariencia profesional y un calce cómodo para el usuario.
+            p.mb-0 El proceso técnico de creación de moldes para calzado tipo Derby se caracteriza por su diseño clásico y la apertura de cordones sobre el empeine. A partir del perfil de la horma y la máscara compensada, se trazan las piezas que conforman la capellada. Este proceso incluye el diseño, corte y marcación de cada parte, garantizando proporciones adecuadas, líneas de unión definidas y funcionalidad. La correcta elaboración de estos moldes asegura un ensamblaje preciso, una apariencia profesional y un calce cómodo para el usuario.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img53.svg" style="max-width: 400px").m-auto
 
         <!-- BLOQUE 1 -->
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 5.1 Elaborar molde patrón para el modelo tipo <em>Derby</em> liso
+          h2 5.1 Elaborar molde patrón para el modelo tipo Derby liso
 
         p.mb-4.espacio___movil_1 Dibuje la máscara compensada sobre una cartulina, incluyendo las líneas guía y los puntos de referencia. Una vez finalizado este paso, trace el eje de la capellada, el cual debe ir desde el punto de calzada hasta la zona más prominente de la punta de la horma. Luego, dibuje el eje del empeine, que se extiende desde el punto de calzada hasta el área más sobresaliente del empeine, siguiendo las indicaciones de la imagen de referencia.
 
         .row.mb-5.justify-content-center
           .col-lg-6(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 20.
+              h5 Figura 24.
               span Esquema de ejes de empeine y capellada en diseño de calzado
             figure
               img(src="@/assets/curso/temas/img54.svg", alt="Esquema del trazado de los ejes de empeine y capellada sobre la máscara compensada.").m-auto
@@ -47,7 +47,7 @@
               img(src="@/assets/curso/temas/img55.png" style="max-width: 400px").m-auto
           .col-xl
             h5.mb-3 A continuación:
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Marque un punto 2 mm hacia el interior desde la línea del talón, sobre la línea de profundidad.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Desde el punto central de la altura del talón, marque otro punto a 5 mm hacia arriba y trace una curva que conecte ambos puntos.</li>
             </ul>
@@ -57,7 +57,7 @@
     .row.align-items-center.mb-3.m-0
       .col-xl-6.estilo___caja_7(data-aos="fade-right")
         h5.mb-4 Marcación de los puntos para ojaletes:
-        <ul class="fa-ul">
+        <ul class="fa-ul estilo___ul">
           <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Trace una línea paralela a 10 mm del borde de la cordonera (eje del empeine).</li>
           <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Sobre esta línea, ubique el primer y el último punto a 12 mm de los bordes de la cabeza del talón.</li>
           <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span>Mida la distancia entre ambos y divídala en tres partes iguales; con este valor, ubique los dos puntos intermedios.</li>
@@ -72,7 +72,7 @@
           img(src="@/assets/curso/temas/img57.png" style="max-width: 610px").m-auto
       .col-xl-6.estilo___caja_7.ajuste___2.ajuste___3(data-aos="fade-left")
         h5.mb-4 Determinación del largo del talón:
-        <ul class="fa-ul">
+        <ul class="fa-ul estilo___ul">
           <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Mida la distancia desde el punto de calzada hasta la punta de la copia, siguiendo la línea de capellada o eje.</li>
           <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Traslade esta medida a la parte inferior de la línea del talón, en dirección hacia la parte delantera de la copia, a lo largo de la línea de plantilla.</li>
           <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Marque el punto resultante como punto de tacón, el cual define el largo del talón.</li>
@@ -95,7 +95,7 @@
         .row.mb-5.justify-content-center
           .col-lg-6(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 21.
+              h5 Figura 25.
               span Dibujo del patrón cambrado con cordonera
             figure
               img(src="@/assets/curso/temas/img60.svg", alt="Dibujo del patrón cambrado que incluye la cordonera sobre la cartulina.").m-auto
@@ -112,7 +112,7 @@
         .row.mb-5.justify-content-center
           .col-lg-8(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 22.
+              h5 Figura 26.
               span Corte técnico para el cambre del patrón sobre la línea metatarsiana
             figure
               img(src="@/assets/curso/temas/img61.svg", alt="Corte técnico sobre la línea metatarsiana para realizar el cambrado del patrón.").m-auto
@@ -134,30 +134,42 @@
               h4 Trazo del nuevo eje de capellada
               p.mb-0 Dibujar una línea recta que toque la parte superior de la copia en la punta y atraviese el punto marcado previamente, extendiéndola 15 mm más allá de la línea de entrada para definir el nuevo eje.
             .col-lg-6
+              .titulo-sexto.color-acento-contenido.mb-2
+                h5 Figura 27.
+                span Diagrama del trazo del nuevo eje de capellada en diseño de calzado
               figure
-                img(src='@/assets/curso/temas/img62.svg', alt='Diagrama técnico del trazo del nuevo eje de capellada en diseño de calzado, con líneas de referencia en azul y verde, una línea recta roja que define el nuevo eje, medidas específicas de 15 mm y detalles de intersección con puntos clave de la silueta. ' style="max-width: 400px").m-auto
+                img(src='@/assets/curso/temas/img62.svg', alt='Diagrama técnico del trazo del nuevo eje de capellada en diseño de calzado, con líneas de referencia en azul y verde, una línea recta roja que define el nuevo eje, medidas específicas de 15 mm y detalles de intersección con puntos clave de la silueta. ' style="max-width: 500px")
 
           .row.h-100.justify-content-center.align-items-center
             .col-lg-6.mb-4.col-xs-12
               h4 Línea desde punto de atraque
               p.mb-0 Colocar la escuadra de 30° en el punto de atraque, alineándola perpendicular a la línea de la boca del talón. Dibujar una línea de 15 mm hacia arriba.
             .col-lg-6
+              .titulo-sexto.color-acento-contenido.mb-2
+                h5 Figura 28.
+                span Diagrama técnico con línea de 15 mm desde punto de artaque
               figure
-                img(src='@/assets/curso/temas/img63.svg', alt='Diagrama técnico con línea de 15 mm desde el punto de atraque, escuadra a 30° y medidas auxiliares sobre silueta de calzado. ' style="max-width: 400px").m-auto
+                img(src='@/assets/curso/temas/img63.svg', alt='Diagrama técnico con línea de 15 mm desde el punto de atraque, escuadra a 30° y medidas auxiliares sobre silueta de calzado. ' style="max-width: 500px")
 
           .row.h-100.justify-content-center.align-items-center
             .col-lg-6.mb-4.col-xs-12
               h4 Diseño de la lengüeta
               p.mb-0 Desde el punto ubicado 15 mm sobre el nuevo eje de capellada, trazar una línea perpendicular de 25 mm para determinar el ancho. Luego, dibujar otra línea perpendicular que se una con la trazada a 30°, ajustando la curva manualmente y redondeando el ángulo en la esquina.
             .col-lg-6
+              .titulo-sexto.color-acento-contenido.mb-2
+                h5 Figura 29.
+                span Diagrama diseño de lengueta
               figure
-                img(src='@/assets/curso/temas/img64.svg', alt='Esquema de diseño de lengüeta en calzado con líneas guía en varios ángulos, medida de 10 mm en la base y curvas ajustadas manualmente para definir el contorno.' style="max-width: 400px").m-auto
+                img(src='@/assets/curso/temas/img64.svg', alt='Esquema de diseño de lengüeta en calzado con líneas guía en varios ángulos, medida de 10 mm en la base y curvas ajustadas manualmente para definir el contorno.' style="max-width: 500px")
 
           .row.h-100.justify-content-center.align-items-center
             .col-lg-6.mb-4.col-xs-12
               h4 Aumento en la boca del talón
               p.mb-0 Con un compás, trazar un aumento de 10 mm sobre la línea de boca del talón y unirlo con la curva de la lengüeta para permitir el ensamble pieza sobre pieza.
             .col-lg-6
+              .titulo-sexto.color-acento-contenido.mb-2
+                h5 Figura 30.
+                span Diagrama de aumento en la boca del talón
               figure
                 img(src='@/assets/curso/temas/img65.svg', alt='Esquema con aumento de 10 mm en la boca del talón, trazado con compás y conectado a la curva de la lengüeta para facilitar el ensamble.' style="max-width: 400px").m-auto  
 
@@ -173,7 +185,7 @@
     .row.justify-content-center
       .col-lg-8(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 23.
+          h5 Figura 31.
           span Proceso de calado del patrón
         figure
           img(src="@/assets/curso/temas/img66.svg", alt="Ilustración del proceso de calado con cortes intermitentes sobre el patrón.").m-auto
@@ -181,7 +193,7 @@
     Separador
     <!-- BLOQUE 2 -->
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.2 Despiece de moldes para el modelo tipo <em>Derby</em> liso
+      h2 5.2 Despiece de moldes para el modelo tipo Derby liso
 
     .fondo_color_10
       .px-5
@@ -217,7 +229,7 @@
         .row.mb-5.justify-content-center
           .col-lg-6(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 24.
+              h5 Figura 32.
               span Corte del molde de capellada en cartulina doblada
             figure
               img(src="@/assets/curso/temas/img70.svg", alt="Corte del molde de capellada realizado sobre cartulina doblada en su eje central.").m-auto
@@ -236,7 +248,7 @@
         .row.justify-content-center
           .col-lg-6(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 25.
+              h5 Figura 33.
               span Molde de cordonera con aumentos y marcas técnicas
             figure
               img(src="@/assets/curso/temas/img72.svg", alt="Molde de la cordonera con aumentos para costura y marcas técnicas.").m-auto
@@ -244,11 +256,11 @@
         Separador
         <!-- BLOQUE 3 -->
         #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 5.2 Moldes forro para el modelo tipo <em>Derby</em> liso
+          h2 5.2 Moldes forro para el modelo tipo Derby liso
 
         .row.align-items-center.mb-5.m-0.espacio___movil_1
           .col-xl.estilo___caja_10(data-aos="fade-right")
-            p.mb-0 La elaboración de los moldes de forro es una etapa clave en el desarrollo del calzado, ya que estas piezas internas aportan estructura, comodidad y soporte al modelo final. En el caso del <em>Derby</em> liso, el forro se diseña con ciertas reducciones y ajustes que permiten un montaje preciso y evitan interferencias con las piezas exteriores. A continuación, se describen los pasos para construir los moldes del forro de la cordonera, el talón y la capellada, detallando los aumentos, reducciones y uniones necesarias para lograr un resultado funcional y bien acabado.
+            p.mb-0 La elaboración de los moldes de forro es una etapa clave en el desarrollo del calzado, ya que estas piezas internas aportan estructura, comodidad y soporte al modelo final. En el caso del Derby liso, el forro se diseña con ciertas reducciones y ajustes que permiten un montaje preciso y evitan interferencias con las piezas exteriores. A continuación, se describen los pasos para construir los moldes del forro de la cordonera, el talón y la capellada, detallando los aumentos, reducciones y uniones necesarias para lograr un resultado funcional y bien acabado.
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img73.svg" style="max-width: 400px").m-auto
@@ -281,7 +293,7 @@
         .row.mb-5.justify-content-center
           .col-lg-6(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 26.
+              h5 Figura 34.
               span Marcado de boca del forro-talón
             figure
               img(src="@/assets/curso/temas/img76.svg", alt="Trazado de la boca del forro-talón con punto de atraque y líneas auxiliares.").m-auto
@@ -297,7 +309,7 @@
         
         .row.align-items-center.mb-5.m-0
           .col-xl.estilo___caja_12(data-aos="fade-right")
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Con un compás, trace un aumento de 5 mm desde el punto superior hasta el punto inferior de la lengüeta, permitiendo el recorte en esta zona.</li>
               <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span>Dibuje una línea paralela a 10 mm de la línea de boca del forro-talón, la cual definirá la parte posterior del forro-capellada. Luego, trace otra línea paralela a 10 mm de la línea de montaje, extendiéndola hacia la punta de la copia.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span>Para completar la forma, una la línea inferior del forro-lengüeta con la línea superior del forro-capellada, conectándolas en el punto inferior de la lengüeta.</li>
@@ -309,7 +321,7 @@
     .row.mb-5.justify-content-center.espacio___movil_1
       .col-lg-6(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 27.
+          h5 Figura 35.
           span Trazado de reducción para contrafuerte del forro-talón
         figure
           img(src="@/assets/curso/temas/img78.svg", alt="Reducción del patrón del forro de capellada para la ubicación del contrafuerte.").m-auto
@@ -328,7 +340,7 @@
         .row.mb-5.justify-content-center
           .col-lg-8(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 28.
+              h5 Figura 36.
               span Reducción del forro-capellada sobre el eje
             figure.mb-4
               img(src="@/assets/curso/temas/img80.svg", alt="Dibujo del patrón del forro de capellada sobre cartulina con eje central.").m-auto
@@ -338,12 +350,12 @@
       .col-lg-6
         .row.m-0
           .col.estilo___caja_13.mb-4(data-aos="zoom-in")
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Cosido y vuelto:</strong> requiere un aumento de 2 mm en la línea de talón.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Costura en zigzag:</strong> no requiere aumento.</li>
             </ul>
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="zoom-in")
-          h5 Figura 29.
+          h5 Figura 37.
           span Conexión del forro-lengüeta y forro-capellada
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/img81.svg", alt="Unión entre el forro de la lengüeta y el forro de capellada.").m-auto

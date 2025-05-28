@@ -13,7 +13,7 @@
         .row.align-items-center.mb-5
           .col-xl
             p.mb-0.estilo___caja_1(data-aos="fade-right") Este componente formativo explica los pasos esenciales para crear moldes patrón y moldes de corte, desde la preparación inicial de la horma hasta la obtención de piezas listas para producción. El proceso comienza con el enmascarado de la horma, etapa clave en la que se trazan las líneas y formas que definen la estructura del modelo. A continuación, se elabora manualmente la camisa o trepa, que sirve como base para construir el molde patrón.
-            p.mb-0.mt-4 A partir de la trepa se desarrolla el molde patrón, el cual se convierte en la principal referencia en la fabricación del calzado, asegurando medidas y proporciones correctas. Luego, se avanza en la creación de moldes específicos para modelos tipo <em>Derby</em>, incluyendo el despiece, la referenciación y la comprobación de los moldes; pasos que permiten identificar y organizar las piezas requeridas en el proceso de ensamble.
+            p.mb-0.mt-4 A partir de la trepa se desarrolla el molde patrón, el cual se convierte en la principal referencia en la fabricación del calzado, asegurando medidas y proporciones correctas. Luego, se avanza en la creación de moldes específicos para modelos tipo Derby, incluyendo el despiece, la referenciación y la comprobación de los moldes; pasos que permiten identificar y organizar las piezas requeridas en el proceso de ensamble.
           .col-xl-auto
             figure.estilo___img_1.d-none.d-xl-block(data-aos="fade-left")
               img(src="@/assets/curso/temas/img2.svg", alt="" style="max-width: 270px").m-auto
@@ -119,13 +119,13 @@
       .col-lg-10
         .row.align-items-center.mb-5
           .col-lg-6.estilo___caja_2(data-aos="fade-right")
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Para calzado de hombre: número de la horma + 20 mm.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Para calzado de mujer: número de la horma + 18 mm.</li>
             </ul>
           .col-lg-6.estilo___caja_3.espacio___movil_3(data-aos="fade-left")
             h5.mb-3 Ejemplo:
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Horma n.º 40 + 20 mm = 60 mm (altura del talón para hombre).</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Horma n.º 40 + 18 mm = 58 mm (altura del talón para mujer).</li>
             </ul>
@@ -166,13 +166,13 @@
       .col-lg-10
         .row.align-items-center.mb-5
           .col-lg-6.estilo___caja_2.ajuste___1(data-aos="fade-right")
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>28 milímetros si se trata de una horma de dama o niño.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>30 milímetros si es una horma de hombre.</li>
             </ul>
           .col-lg-6.estilo___caja_3.espacio___movil_3(data-aos="fade-left")
             h5.mb-3 Ejemplo:
-            <ul class="fa-ul">
+            <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Horma n.º 40 + 30 mm = 70 mm.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span>Horma n.º 40 + 28 mm = 68 mm.</li>
             </ul>

@@ -1,9 +1,8 @@
 export default {
   global: {
-    Name:
-      'Elaboración y comprobación de los moldes para calzado <em>Derby</em>',
+    Name: 'Elaboración y comprobación de los moldes para calzado Derby',
     Description:
-      'El componente formativo explica cómo elaborar y verificar moldes de calzado <em>Derby</em>, desde el trazado de líneas guía en la horma hasta la construcción de moldes patrón, piezas de corte y forros. Detalla variantes como puntera, bigotera y chapeta. También resalta la importancia de la maqueta para comprobar ajustes, diseño y funcionalidad antes de la producción final.',
+      'El componente formativo explica cómo elaborar y verificar moldes de calzado Derby, desde el trazado de líneas guía en la horma hasta la construcción de moldes patrón, piezas de corte y forros. Detalla variantes como puntera, bigotera y chapeta. También resalta la importancia de la maqueta para comprobar ajustes, diseño y funcionalidad antes de la producción final.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -50,7 +49,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tipología calzado <em>Derby</em> y sus variaciones',
+        titulo: 'Tipología calzado Derby y sus variaciones',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -60,7 +59,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Variaciones del Modelo <em>Derby</em>',
+            titulo: 'Variaciones del Modelo Derby',
             hash: 't_3_2',
           },
         ],
@@ -74,24 +73,22 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Elaborar moldes para el modelo tipo <em>Derby</em> liso',
+        titulo: 'Elaborar moldes para el modelo tipo Derby liso',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo:
-              'Elaborar molde patrón para el modelo tipo <em>Derby</em> liso',
+            titulo: 'Elaborar molde patrón para el modelo tipo Derby liso',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo:
-              'Despidiese de moldes para el modelo tipo <em>Derby</em> liso',
+            titulo: 'Despidiese de moldes para el modelo tipo Derby liso',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Moldes forro para el modelo tipo <em>Derby</em> liso',
+            titulo: 'Moldes forro para el modelo tipo Derby liso',
             hash: 't_5_3',
           },
         ],
@@ -99,26 +96,25 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo:
-          'Elaborar moldes para el modelo tipo <em>Derby</em> con puntera y talón',
+        titulo: 'Elaborar moldes para el modelo tipo Derby con puntera y talón',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '6.1',
             titulo:
-              'Elaborar molde patrón para el modelo tipo <em>Derby</em> con puntera y talón',
+              'Elaborar molde patrón para el modelo tipo Derby con puntera y talón',
             hash: 't_6_1',
           },
           {
             numero: '6.2',
             titulo:
-              'Despidiese de moldes para el modelo tipo <em>Derby</em> con puntera y talón',
+              'Despidiese de moldes para el modelo tipo Derby con puntera y talón',
             hash: 't_6_2',
           },
           {
             numero: '6.3',
             titulo:
-              'Moldes forro para el modelo tipo <em>Derby</em> con puntera y talón',
+              'Moldes forro para el modelo tipo Derby con puntera y talón',
             hash: 't_6_3',
           },
         ],
@@ -126,20 +122,19 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo:
-          'Elaborar moldes para el modelo tipo <em>Derby</em> con Bigotera',
+        titulo: 'Elaborar moldes para el modelo tipo Derby con Bigotera',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '7.1',
             titulo:
-              'Elaborar molde patrón para el modelo tipo <em>Derby</em> con Bigotera',
+              'Elaborar molde patrón para el modelo tipo Derby con Bigotera',
             hash: 't_7_1',
           },
           {
             numero: '7.2',
             titulo:
-              'Despidiese de moldes para el modelo tipo <em>Derby</em> con Bigotera',
+              'Despidiese de moldes para el modelo tipo Derby con Bigotera',
             hash: 't_7_2',
           },
         ],
@@ -147,26 +142,24 @@ export default {
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo:
-          'Elaborar moldes para el modelo tipo <em>Derby</em> con chapeta',
+        titulo: 'Elaborar moldes para el modelo tipo Derby con chapeta',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '8.1',
             titulo:
-              'Elaborar molde patrón para el modelo tipo <em>Derby</em> con chapeta',
+              'Elaborar molde patrón para el modelo tipo Derby con chapeta',
             hash: 't_8_1',
           },
           {
             numero: '8.2',
             titulo:
-              'Despidiese de moldes para el modelo tipo <em>Derby</em> con chapeta',
+              'Despidiese de moldes para el modelo tipo Derby con chapeta',
             hash: 't_8_2',
           },
           {
             numero: '8.3',
-            titulo:
-              'Moldes forro para el modelo tipo <em>Derby</em> con chapeta',
+            titulo: 'Moldes forro para el modelo tipo Derby con chapeta',
             hash: 't_8_3',
           },
         ],
@@ -242,16 +235,16 @@ export default {
   },
   complementario: [
     {
-      tema: 'Modelaje de calzado tipo <em>Derby</em> con puntera',
+      tema: 'Modelaje de calzado tipo Derby con puntera',
       referencia:
-        'Juan Carlos Tellez Vera (2011). 12b. Modelaje de calzado Capelladas tipo <em>Derby</em> punteras - con Rhinoceros 4.0 – JUCATEVE. [Vídeo]. ',
+        'Juan Carlos Tellez Vera (2011). 12b. Modelaje de calzado Capelladas tipo Derby punteras - con Rhinoceros 4.0 – JUCATEVE. [Vídeo]. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0XtRZYTddcg&t=963s',
     },
     {
-      tema: 'Modelaje de calzado tipo <em>Derby</em> con chapeta',
+      tema: 'Modelaje de calzado tipo Derby con chapeta',
       referencia:
-        'Juan Carlos Tellez Vera (2011). 12a. Modelaje de calzado Capelladas tipo <em>Derby</em> chapeta - con Rhinoceros 4.0 - JUCATEVE [Vídeo].',
+        'Juan Carlos Tellez Vera (2011). 12a. Modelaje de calzado Capelladas tipo Derby chapeta - con Rhinoceros 4.0 - JUCATEVE [Vídeo].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=OfO9ZdmrOCM&t=2988s ',
     },

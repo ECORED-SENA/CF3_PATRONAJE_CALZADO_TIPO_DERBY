@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 7
-      h1 Elaborar moldes para el modelo tipo <em>Derby</em> con Bigotera
+      h1 Elaborar moldes para el modelo tipo Derby con Bigotera
     
     .fondo_color_19
       .px-5
         .row.align-items-center.mb-5.m-0
           .col-xl.estilo___caja_1.ajuste___5(data-aos="fade-right")
-            p.mb-0 El calzado <em>Derby</em> con bigotera, también conocido como <em>Derby</em> con puntera en forma de "W", es una variante del clásico <em>Derby</em> que incorpora una pieza adicional denominada bigotera. Esta pieza influye tanto en la estética como en la funcionalidad del modelo, aportando un toque distintivo. A continuación, se describen sus principales características:
+            p.mb-0 El calzado Derby con bigotera, también conocido como Derby con puntera en forma de "W", es una variante del clásico Derby que incorpora una pieza adicional denominada bigotera. Esta pieza influye tanto en la estética como en la funcionalidad del modelo, aportando un toque distintivo. A continuación, se describen sus principales características:
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img108.svg" style="max-width: 400px").m-auto
@@ -24,7 +24,7 @@
                   figure.mb-4.d-none.d-xl-block
                     img(src='@/assets/curso/temas/img109.svg', alt="" style="max-width: 90px").m-auto
                 h3 Diseño y estructura
-                p.mb-0 Conserva la construcción abierta del <em>Derby</em>, con ojales cosidos sobre dos alas laterales (cordonera abierta), lo que proporciona un ajuste más flexible y cómodo.
+                p.mb-0 Conserva la construcción abierta del Derby, con ojales cosidos sobre dos alas laterales (cordonera abierta), lo que proporciona un ajuste más flexible y cómodo.
           .col-lg-3.espacio___movil_3(data-aos="zoom-in")
             .estilo___caja_15.h-100
               .row.justify-content-center.mb-3
@@ -53,7 +53,7 @@
         Separador
         <!-- BLOQUE 1 -->
         #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 7.1 Elaborar molde patrón para el modelo tipo <em>Derby</em> con Bigotera
+          h2 7.1 Elaborar molde patrón para el modelo tipo Derby con Bigotera
 
         p.mb-4.espacio___movil_1 Este proceso se basa en el mismo patrón cambrado utilizado en modelos anteriores, con adaptaciones específicas para incorporar la bigotera como pieza distintiva del diseño.
 
@@ -64,8 +64,8 @@
                 figure.d-none.d-xl-block
                   img(src="@/assets/curso/temas/img113.png" style="max-width: 400px").m-auto
               .col-xl
-                <ul class="fa-ul">
-                  <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Construcción de la cordonera:</strong> se elabora de la misma forma que en el modelo <em>Derby</em> liso.</li>
+                <ul class="fa-ul estilo___ul">
+                  <li class="mb-2"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Construcción de la cordonera:</strong> se elabora de la misma forma que en el modelo Derby liso.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Construcción de la bigotera:</strong> recuerde utilizar el patrón cambrado. La bigotera se traza a partir del punto máximo de la puntera. Su parte inferior puede diseñarse libremente, según el criterio del patronista, al igual que su terminación sobre la línea de plantilla. No obstante, esta línea no debe finalizar sobre el punto metatarsiano. Además, es fundamental que no existan cruces entre las piezas, ya que esto podría dificultar el ensamblaje y comprometer la comodidad del calzado.</li>
                 </ul>
     
@@ -87,15 +87,15 @@
                 figure.d-none.d-xl-block
                   img(src="@/assets/curso/temas/img114.png" style="max-width: 400px").m-auto
               .col-xl
-                <ul class="fa-ul">
+                <ul class="fa-ul estilo___ul">
                   <li class="mb-4"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Construcción del talón:</strong> este molde se desarrolla de la misma manera que en el modelo anterior. Tenga en cuenta que el diseño del talón puede variar según el estilo del calzado.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Construcción de la capellada:</strong> la capellada se elabora siguiendo el mismo procedimiento aplicado en el modelo <em>Derby</em> con puntera.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Construcción de la capellada:</strong> la capellada se elabora siguiendo el mismo procedimiento aplicado en el modelo Derby con puntera.</li>
                 </ul>
         
         .row.justify-content-center
           .col-lg-8(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 41.
+              h5 Figura 49.
               span Trazado de la bigotera a partir del punto máximo de la puntera
             figure
               img(src="@/assets/curso/temas/img116.svg", alt="Diseño técnico donde se representa la construcción de la bigotera desde el punto máximo de la puntera.").m-auto
@@ -103,14 +103,14 @@
         Separador
         <!-- BLOQUE 2 -->
         #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 7.2 Despiece de moldes para el modelo tipo <em>Derby</em> con Bigotera
+          h2 7.2 Despiece de moldes para el modelo tipo Derby con Bigotera
         
-        p.mb-4.espacio___movil_1 El proceso de despiece de los moldes se realiza de manera similar al del modelo <em>Derby</em> con puntera. La única pieza que varía es la bigotera, cuyo molde se elabora a partir del eje de la capellada. Para su desarrollo, se dobla la cartulina por dicho eje, lo que permite obtener una figura simétrica y equilibrada, asegurando uniformidad en ambos lados del calzado.
+        p.mb-4.espacio___movil_1 El proceso de despiece de los moldes se realiza de manera similar al del modelo Derby con puntera. La única pieza que varía es la bigotera, cuyo molde se elabora a partir del eje de la capellada. Para su desarrollo, se dobla la cartulina por dicho eje, lo que permite obtener una figura simétrica y equilibrada, asegurando uniformidad en ambos lados del calzado.
 
         .row.mb-5.justify-content-center
           .col-lg-8(data-aos="zoom-in")
             .titulo-sexto.color-acento-contenido.mb-2
-              h5 Figura 42.
+              h5 Figura 50.
               span Trazado de sección decorativa o funcional sobre la cordonera
             figure
               img(src="@/assets/curso/temas/img117.svg", alt="Dibujo de sección decorativa o funcional sobre la cordonera del modelo con bigotera.").m-auto
@@ -122,8 +122,8 @@
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img58.svg" style="max-width: 72px").m-auto
           .col-xl
-            h5.estilo___h5 Moldes de forro para el modelo tipo <em>Derby</em> con Bigotera
-            p.mb-0 Los moldes de forro se construyen de la misma manera que en el modelo <em>Derby</em> con puntera.
+            h5.estilo___h5 Moldes de forro para el modelo tipo Derby con Bigotera
+            p.mb-0 Los moldes de forro se construyen de la misma manera que en el modelo Derby con puntera.
 
 </template>
 
