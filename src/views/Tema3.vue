@@ -21,7 +21,7 @@
         #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.1 Reseña histórica
 
-        p.mb-5.espacio___movil_1 El calzado Derby, también conocido como Blucher, es un modelo clásico que se distingue por su sistema de cordones abiertos, a diferencia del modelo Oxford, que presenta una construcción de cordones cerrados. Gracias a su diseño versátil y cómodo, el Derby se ha consolidado como una opción popular tanto en contextos formales como informales.
+        p.mb-5.espacio___movil_1 El calzado Derby, también conocido como <em>Blucher</em>, es un modelo clásico que se distingue por su sistema de cordones abiertos, a diferencia del modelo Oxford, que presenta una construcción de cordones cerrados. Gracias a su diseño versátil y cómodo, el Derby se ha consolidado como una opción popular tanto en contextos formales como informales.
 
         .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
           .col-lg-auto

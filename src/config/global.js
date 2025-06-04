@@ -83,7 +83,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Despidiese de moldes para el modelo tipo Derby liso',
+            titulo: 'Despiece de moldes para el modelo tipo Derby liso',
             hash: 't_5_2',
           },
           {
@@ -108,7 +108,7 @@ export default {
           {
             numero: '6.2',
             titulo:
-              'Despidiese de moldes para el modelo tipo Derby con puntera y talón',
+              'Despiece de moldes para el modelo tipo Derby con puntera y talón',
             hash: 't_6_2',
           },
           {
@@ -133,8 +133,7 @@ export default {
           },
           {
             numero: '7.2',
-            titulo:
-              'Despidiese de moldes para el modelo tipo Derby con Bigotera',
+            titulo: 'Despiece de moldes para el modelo tipo Derby con Bigotera',
             hash: 't_7_2',
           },
         ],
@@ -153,8 +152,7 @@ export default {
           },
           {
             numero: '8.2',
-            titulo:
-              'Despidiese de moldes para el modelo tipo Derby con chapeta',
+            titulo: 'Despiece de moldes para el modelo tipo Derby con chapeta',
             hash: 't_8_2',
           },
           {

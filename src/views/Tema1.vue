@@ -71,7 +71,7 @@
               h5 Figura 3.
               span Trazado de la línea metatarsiana
             figure
-              img(src="@/assets/curso/temas/img9.jpg", alt="Imagen del trazado de la línea metatarsiana que conecta los puntos metatarsianos interno y externo. " )
+              img(src="@/assets/curso/temas/img9.jpg", alt="Trazado de la línea metatarsiana que conecta los puntos metatarsianos interno y externo. " )
         
         p.mb-4.espacio___movil_1 Este punto se obtiene en la intersección entre el eje del empeine y la línea metatarsiana, tal como se presenta en la imagen.
 

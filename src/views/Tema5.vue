@@ -280,7 +280,7 @@
     
     .row.align-items-center.mb-5.m-0.espacio___movil_1
       .col-xl.estilo___caja_12(data-aos="fade-right")
-        p.mb-0 Desde el nuevo punto de atraque, dibuje una línea recta hasta el punto inferior de la lengüeta. Luego, marque un punto a 10 mm del nuevo punto de atraque sobre la línea de la boca del forro-talón. A partir de este nuevo punto, trace otra línea recta hacia el punto inferior de la lengüeta. El ángulo formado entre estas dos líneas corresponde al destíjere del forro-talón, necesario para el ensamblaje entre talón y capellada.
+        p.mb-0 Desde el nuevo punto de atraque, dibuje una línea recta hasta el punto inferior de la lengüeta. Luego, marque un punto a 10 mm del nuevo punto de atraque sobre la línea de la boca del forro-talón. A partir de este nuevo punto, trace otra línea recta hacia el punto inferior de la lengüeta. El ángulo formado entre estas dos líneas corresponde al destijere del forro-talón, necesario para el ensamblaje entre talón y capellada.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img74.svg" style="max-width: 400px").m-auto
